@@ -270,12 +270,4 @@ public class playerSystem : MonoBehaviour
         }
     }
     }
-public static class GameValues
-{
 
-
-
-
-
-
-}
