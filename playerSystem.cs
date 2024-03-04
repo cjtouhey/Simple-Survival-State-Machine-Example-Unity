@@ -269,5 +269,5 @@ public class playerSystem : MonoBehaviour
             yield return null; 
         }
     }
-    }
+}
 
